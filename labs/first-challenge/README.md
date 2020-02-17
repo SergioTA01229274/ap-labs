@@ -36,21 +36,28 @@ Note that the answer must be a substring, `pwke` is a subsequence and not a subs
 Build Requirements
 ------------------
 ```
-# Build Requirements here
+- Python 3
+- A Linux-based operating system
+
 ```
 
 
 How to build
 ------------
 ```
-# instructions here
+1.	Open the command line and download Python 3.
+2.	Download the FCC_A01229274.py file and the FCC.sh file, both in the same directory.	
+3.	Change the permissions of the FSS.sh file using "chmode +x FCC.sh"
+
 ```
 
 
 How to Run
 ----------
 ```
-# instructions here
+1.	Once you have both file in the same directory and you've changed the permission to executable permission now you can run the .sh file.
+2.	type ./FCC.sh in the command line and follow the instructions of the program.
+
 ```
 
 
