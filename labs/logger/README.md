@@ -17,6 +17,13 @@ int errorf(const char *format, ...)
 int panicf(const char *format, ...)
 ```
 
+Buld and use instructions
+-------------------------
+- The logger.c and testLogger.c files are already compiled into logger.o and testLogger.o files.
+- Both logger.o and testLogger.o were compiled into the executable file main
+- To test the methods just type ./main and a test output will be written into stdout
+
+
 General instructions
 --------------------
 - Use the `logger.c` file for your implementation.
