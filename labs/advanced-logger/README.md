@@ -18,9 +18,9 @@ You can use the **The Linux Programming Interface** book as a reference for your
 
 Build and Use instructions
 --------------------------
-- Run the following commands in order to obtain the executable file that runs the code: gcc -c logger.c -o logger.o, gcc -c testLogger.c -o testLogger.o, gcc logger.o testLogger.o -o main
+- Run the following commands in order to obtain the executable file that runs the code: `gcc -c logger.c -o logger.o`, `gcc -c testLogger.c -o testLogger.o`, `gcc logger.o testLogger.o -o main`
 - Once the files are compiled an executable file "main" will be created
-- Run the executable file using ./main and see the output in stdout. Another output will be logged into syslog. You can check the output in syslog with: tail /var/log/syslog
+- Run the executable file using `./main` and see the output in stdout. Another output will be logged into syslog. You can check the output in syslog with: `tail /var/log/syslog`
 
 
 
