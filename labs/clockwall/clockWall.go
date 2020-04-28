@@ -1,3 +1,6 @@
+//Author: Sergio Ivan Tostado Nieto
+
+
 package main
 
 import (
